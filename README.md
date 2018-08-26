@@ -1,1 +1,1 @@
-# tbms-barebones-html-demo
+For a school project :)
